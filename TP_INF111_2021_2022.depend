@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673900963 source:c:\ligs\tp_inf111_2021_2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
